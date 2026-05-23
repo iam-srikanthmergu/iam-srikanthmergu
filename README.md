@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Srikanth Mergu
 
-I’m a Cloud & DevOps Engineer with 4+ years of hands-on experience working on real-world infrastructure, CI/CD pipelines, and Kubernetes environments.
+I’m a Cloud & DevOps Engineer with 5+ years of hands-on experience working on real-world infrastructure, CI/CD pipelines, and Kubernetes environments.
 
 Currently, I’m working at HCA Healthcare India, where I focus on building reliable, secure, and scalable DevOps solutions.
 
